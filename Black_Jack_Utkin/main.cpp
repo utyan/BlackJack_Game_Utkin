@@ -10,6 +10,6 @@
             position = -p;
         }
         bool GetValue(){
-            return VALUE;
+            return VALUE;// проверка
         }
     };
