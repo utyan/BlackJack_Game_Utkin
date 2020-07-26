@@ -9,7 +9,7 @@
         bool Flip(bool p){
             position = -p;
         }
-        bool GetValue(){
-            return VALUE;// каваа банга!!!
+        bool GetValue(){ Lesson_3
+         return VALUE;// проверка
         }
     };
